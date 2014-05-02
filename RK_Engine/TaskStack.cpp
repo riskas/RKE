@@ -4,12 +4,16 @@
 
 TaskStack::TaskStack()
 {
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5d578941b980be1f627b71b6529f09631c1d7fcd
 }
 
 
 TaskStack::~TaskStack()
 {
+<<<<<<< HEAD
 
 }
 
@@ -28,4 +32,6 @@ BTask* TaskStack::FindTaskToDo()
 		return tmpTpr;
 	}
 	return 0;
+=======
+>>>>>>> 5d578941b980be1f627b71b6529f09631c1d7fcd
 }
