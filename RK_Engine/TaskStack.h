@@ -12,7 +12,7 @@ public:
 
 	~TaskStack();
 
-	void RegisterTast(BTask* t);
+	void RegisterTask(BTask* t);
 
 	BTask* FindTaskToDo();
 

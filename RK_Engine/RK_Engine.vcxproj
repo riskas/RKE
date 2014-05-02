@@ -80,6 +80,7 @@
   <ItemGroup>
     <ClCompile Include="BTask.cpp" />
     <ClCompile Include="BThread.cpp" />
+    <ClCompile Include="DefaultTask.cpp" />
     <ClCompile Include="DefaultThread.cpp" />
     <ClCompile Include="PoolThread.cpp" />
     <ClCompile Include="RK_Engine.cpp" />
@@ -88,6 +89,7 @@
   <ItemGroup>
     <ClInclude Include="BTask.h" />
     <ClInclude Include="BThread.h" />
+    <ClInclude Include="DefaultTask.h" />
     <ClInclude Include="DefaultThread.h" />
     <ClInclude Include="PoolThread.h" />
     <ClInclude Include="TaskStack.h" />

@@ -9,7 +9,7 @@
 int main()
 {
 
-	PoolThread* poolThread = new PoolThread(2);
+	//PoolThread* poolThread = new PoolThread(2);
 
 	char outing;
 	std::cin >> outing;

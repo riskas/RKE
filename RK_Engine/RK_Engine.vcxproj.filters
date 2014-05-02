@@ -39,6 +39,9 @@
     <ClCompile Include="TaskStack.cpp">
       <Filter>Source Files\Threading</Filter>
     </ClCompile>
+    <ClCompile Include="DefaultTask.cpp">
+      <Filter>Source Files\Threading</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TaskStack.h">
@@ -54,6 +57,9 @@
       <Filter>Header Files\Threading</Filter>
     </ClInclude>
     <ClInclude Include="PoolThread.h">
+      <Filter>Header Files\Threading</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultTask.h">
       <Filter>Header Files\Threading</Filter>
     </ClInclude>
   </ItemGroup>
