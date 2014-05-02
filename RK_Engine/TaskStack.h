@@ -12,11 +12,7 @@ public:
 
 	~TaskStack();
 
-<<<<<<< HEAD
 	void RegisterTask(BTask* t);
-=======
-	void RegisterTast(BTask* t);
->>>>>>> 5d578941b980be1f627b71b6529f09631c1d7fcd
 
 	BTask* FindTaskToDo();
 
